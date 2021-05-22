@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tungnt24
+- 👋 Hi, I’m @Tungnt
 
 ## ⚡ Technologies
 ### OSes
