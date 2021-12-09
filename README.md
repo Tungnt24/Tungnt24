@@ -12,6 +12,7 @@
 
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=Go)
 
 ## ⚡ Github stats
 [![Tungnt24 github stats](https://github-readme-stats.vercel.app/api?username=Tungnt24&count_private=true&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=Tungnt24&count_private=true&show_icons=true&theme=gruvbox)
